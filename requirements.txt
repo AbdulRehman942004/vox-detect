@@ -1,0 +1,11 @@
+librosa>=0.10.0
+scikit-learn>=1.4.0
+scipy>=1.12.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+soundfile>=0.12.1
+tqdm>=4.66.0
+ipykernel>=6.29.0
+notebook>=7.1.0

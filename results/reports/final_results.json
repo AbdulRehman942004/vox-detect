@@ -1,0 +1,7 @@
+{
+  "genuine_count": 200,
+  "forged_count": 800,
+  "genuine_tp_pct": 84.5,
+  "forged_tn_pct": 100.0,
+  "overall_accuracy": 96.9
+}
