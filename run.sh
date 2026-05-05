@@ -60,7 +60,7 @@ case "$STEP" in
         echo ""
         python "$SCRIPT_DIR/scripts/03_generate_forgeries.py"
         echo ""
-        python "$SCRIPT_DIR/scripts/04_evaluate.py" --mixture-analysis
+        python "$SCRIPT_DIR/scripts/quick_evaluate.py"
         ;;
     "test")
         echo "→ Running smoke tests..."
